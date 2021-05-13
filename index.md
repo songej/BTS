@@ -2,6 +2,8 @@
 
 안녕하세요, BTS 챗봇을 간단히 만들어보는 실습입니다.
 
+![deer_PNG10186](https://user-images.githubusercontent.com/3221956/118125163-97e9a100-b431-11eb-98f2-96ba93938161.png)
+
 # 가장 큰 제목
 ## 두번째 큰 제목
 ### 세번째 큰 제목
